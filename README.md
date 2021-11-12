@@ -10,8 +10,5 @@ https://user-images.githubusercontent.com/54002413/141506364-9c3e6e06-3ddd-4bbf-
 https://user-images.githubusercontent.com/54002413/141496374-ead044e3-6727-4430-91af-939257649759.mp4
 ### health monitoring system
 ![alt tag](https://i.imgur.com/v5poLrx.png)
-
-
-
-
-
+### prototype app screenshots
+![Screenshot_20211112-182116_insight](https://user-images.githubusercontent.com/54002413/141506550-88b8fbc2-165d-49c0-8e1f-6c35fb7cdd9c.jpg)
